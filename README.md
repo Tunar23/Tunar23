@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tunar23
 - 👀 I’m interested in Full-Stack Programming 
-- 🌱 I’m currently learning Front-end tool's 
 - 📫 How to reach me: tunar222003@gmail.com
 
 <!---
